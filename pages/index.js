@@ -36,7 +36,7 @@ export default () => {
             </ul>
         </div>
         <div class="mb4">
-            <form className="mid-gray center" action="https://tinyletter.com/kharitaclub" method="post" target="popupwindow" onsubmit="window.open('https://tinyletter.com/kharitaclub', 'popupwindow', 'scrollbars=yes,width=800,height=600');return true">
+            <form className="mid-gray center" action="https://tinyletter.com/kharita-club" method="post" target="popupwindow" onsubmit="window.open('https://tinyletter.com/kharitaclub', 'popupwindow', 'scrollbars=yes,width=800,height=600');return true">
               <p>
                 <label for="tlemail">Enter your email address to get updates :)</label>
               </p>
