@@ -25,6 +25,7 @@ export default () => {
             <ul>
               <li>Quarries in Lebanon</li>
               <li>Administrative Boundaries</li>
+              <li>Arabic translation of <a href="https://github.com/osmfoundation/welcome-mat">OSM Welcome Mat</a></li>
             </ul>
         </div>
         <div className="mb4">
