@@ -1,0 +1,29 @@
+{
+  "name": "kharita.club",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "next",
+    "build": "next build",
+    "start": "next start"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kamicut/kharita.club.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kamicut/kharita.club/issues"
+  },
+  "homepage": "https://github.com/kamicut/kharita.club#readme",
+  "dependencies": {
+    "leaflet": "^1.3.4",
+    "next": "^7.0.2",
+    "react": "^16.6.3",
+    "react-dom": "^16.6.3",
+    "react-leaflet": "^2.1.2"
+  }
+}
